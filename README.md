@@ -8,8 +8,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+Full-Stack+Web+Application;MERN+%7C+React+Native+%7C+Cloud;containerize+with+docker+%7C+AWS)](https://git.io/typing-svg)
 
-<!-- CI/CD Status Badge — auto-updated by GitHub Actions -->
-[![Update README](https://github.com/sp-tnex/sp-tnex/actions/workflows/update-readme.yml/badge.svg)](https://github.com/sp-tnex/sp-tnex/actions/workflows/update-readme.yml)
 ![Profile Views](https://komarev.com/ghpvc/?username=sp-tnex&color=7c3aed&style=flat-square&label=Profile+Views)
  
 
