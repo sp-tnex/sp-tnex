@@ -41,4 +41,6 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: auto-update README stats [skip ci]"
+          commit_author: "284714230+sp-tnex@users.noreply.github.com"
+          file_pattern: dist/github-snake-dark.svg
           branch: main
