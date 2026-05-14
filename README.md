@@ -8,6 +8,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+Full-Stack+Web+Application;MERN+%7C+React+Native+%7C+Cloud;containerize+with+docker+%7C+AWS)](https://git.io/typing-svg)
 
+<!-- CI/CD Status Badge — auto-updated by GitHub Actions -->
+[![Update README](https://github.com/sp-tnex/sp-tnex/actions/workflows/update-readme.yml/badge.svg)](https://github.com/sp-tnex/sp-tnex/actions/workflows/update-readme.yml)
+![Profile Views](https://komarev.com/ghpvc/?username=sp-tnex&color=7c3aed&style=flat-square&label=Profile+Views)
+ 
+
 </div>
 
 
@@ -140,6 +145,17 @@ const spTnex = {
 -  Learning **CI/CD pipelines** and DevOps best practices
 -  Fun fact: I learn best by **building real projects!**
 
+## Contribution Snake
+ 
+<!-- Snake SVG is generated nightly by GitHub Actions (Platane/snk) and pushed to the `output` branch -->
+ 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/sp-tnex/sp-tnex/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sp-tnex/sp-tnex/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/sp-tnex/sp-tnex/output/github-snake.svg" width="100%" />
+</picture>
+</div>
 
 ## Connect With Me
 
